@@ -1,0 +1,30 @@
+h1, p {
+    font-family: Lato;
+  }
+  h3{margin-bottom:0px;}
+
+  .square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+}
+.game {
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+}
+.game-info {
+    margin-left: 20px;
+}
+.from{width:20%;margin-top:30px;}
+p{margin: 0px;}
+input{height:30px;border-radius:0px;border:1px solid #000;width:100%;margin-bottom:10px;}
